@@ -1,8 +1,8 @@
-= Caesar Cipher
+# Caesar Cipher
 
 WordPress shortcode plugin for Caesar Cipher.
 
-== USAGE
+## USAGE
 
 use caesar-cipher shortcode when you post entry.
 
